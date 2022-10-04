@@ -1,2 +1,2 @@
-# typescript-express-sequelize
-typescript-express-sequelize
+# typescript-express-typeorm
+typescript-express-typeorm
